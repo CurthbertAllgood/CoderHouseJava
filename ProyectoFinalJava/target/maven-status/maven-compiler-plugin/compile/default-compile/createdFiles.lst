@@ -1,0 +1,10 @@
+com\example\ProyectoFinalJava\repository\RepositoryVenta.class
+com\example\ProyectoFinalJava\models\Producto.class
+com\example\ProyectoFinalJava\repository\RepositoryCliente.class
+com\example\ProyectoFinalJava\models\Cliente.class
+com\example\ProyectoFinalJava\models\Venta.class
+com\example\ProyectoFinalJava\ProyectoFinalJavaApplication.class
+com\example\ProyectoFinalJava\controllers\ControllerVentas.class
+com\example\ProyectoFinalJava\controllers\ControllerCliente.class
+com\example\ProyectoFinalJava\controllers\ControllerProducto.class
+com\example\ProyectoFinalJava\repository\RepositoryProducto.class
